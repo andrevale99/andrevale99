@@ -1,7 +1,10 @@
-<div align="center">
-  <bold>Andre Menezes de Freitas Vale</bold>
-</div>
+# André Menezes de Freitas Vale
 
-<div align="center">
-  editando o perfil
+A concluir
+
+<br>
+
+<div align="left">
+  <p> Data de Nascimento: 28/12/1999 </p>
+  <p> Residência: Natal, Rio Grande do Norte (RN) </p>
 </div>
