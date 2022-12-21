@@ -7,7 +7,7 @@
 <div id="lags">
   Linguagens:
   <ul>
-    <u> C
+    <l> C
   </ul
 </div>
 
