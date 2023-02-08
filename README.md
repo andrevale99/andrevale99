@@ -7,11 +7,13 @@
 <div id="lags">
   Linguagens:
   <ul>
-    <li> C
-    <li> C++
-    <li> Python
-    <li> Assembly
-    <li> Javascript
+    <li> C </li>
+    <li> C++ </li>
+    <li> Python </li>
+    <li> Assembly </li>
+    <li> Javascript </li>
+    <li> HTML </li>
+    <li> CSS </li>
   </ul
 </div>
 
