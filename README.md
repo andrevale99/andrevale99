@@ -1,10 +1,12 @@
 # André Menezes de Freitas Vale
 
 <div id="aprt">
-  Bacharelando em Ciências e Tecnologia desde 2018 com ênfase na Mecatrônica.
+  <p>
+    Bacharelando em Ciências e Tecnologia desde 2018 com ênfase na Mecatrônica na Universidade Federal do Rio Grande do Norte. 
+  </p>
 </div>
 
-<div id="lags">
+<div id="langs">
   Linguagens:
   <ul>
     <li> C </li>
