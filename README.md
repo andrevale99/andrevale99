@@ -12,7 +12,7 @@
     <li> C </li>
     <li> C++ </li>
     <li> Python </li>
-    <li> Assembly </li>
+    <li> Assembly (AVR, MIPS)</li>
     <li> Javascript </li>
     <li> HTML </li>
     <li> CSS </li>
