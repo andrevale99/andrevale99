@@ -16,6 +16,7 @@
     <li> Javascript </li>
     <li> HTML </li>
     <li> CSS </li>
+    <li> VHDL </li>
   </ul
 </div>
 
